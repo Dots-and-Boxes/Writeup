@@ -1,0 +1,45 @@
+\documentclass[12pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+ 
+\usepackage{mathptmx}
+
+\title{Dots and Boxes}
+\author{David Wang Xinyue Chen Yan Liu Zihao Wang}
+\date{January 23, 2020}
+
+\begin{document}
+
+\maketitle
+\clearpage
+\section*{Choice of game}
+\begin{flushleft}
+
+We chose the game Dots and Boxes because: \newline
+\begin{enumerate}
+ Dots and Boxes fulfils the criteria for a combinatorial game. It is relatively simple to learn and play. After spending few hours on playing this game, we realized that this game isn't as simple as it appears to. We found it is really fun to play and think about the strategy to defeat the bot. It is a challenge for us to  make the algorithm for computer to play, but we all think it is interesting to write a plyer for this game. 
+\end{enumerate}
+
+\end{flushleft}
+
+\section*{Useful Links}
+
+\begin{flushleft}
+\begin{enumerate}
+    \item \begin{verbatim}https://en.wikipedia.org/wiki/Dots_and_Boxes\end{verbatim}
+    \item \begin{verbatim}https://www.youtube.com/watch?v=KboGyIilP6k\end{verbatim}
+    \item \begin{verbatim}https://www.wikihow.com/Win-at-the-Dot-Game\end{verbatim}
+\end{enumerate}
+
+\end{flushleft}
+
+\section*{Program type}
+We are going to write a player program for the Dots And Boxes. 
+We will try to improve upon the code and algorithm, reach the level of a solver hopefully.
+
+\section*{Division of work}
+Yan Liu is going to build the User interface, Zihao Wang and Xinyue Chen are going to conceive the algorithm about the computer player and write it to code, David Wang is going to write code about the game like score and rule.
+We will look up some algorithm from online and learn from it, in order to come up with our own ideas. There are some simple codes online for Dots and Boxes, but those code are written for user playing against other user. We may learn some code, but we need to write most of the code by ourselves. We anticipate that about 70 percent of the code will be written by us explicitly. \newline
+
+
+\end{document}
