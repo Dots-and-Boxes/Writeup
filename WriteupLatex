@@ -1,0 +1,61 @@
+\documentclass[12pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+ 
+\usepackage{mathptmx}
+
+\title{Dots and Boxes}
+\author{David Wang Xinyue Chen Yan Liu Zihao Wang}
+\date{January 23, 2020}
+
+\begin{document}
+
+\maketitle
+\clearpage
+\section*{Choice of game}
+\begin{flushleft}
+
+We chose the game Dots and Boxes because: \newline
+\begin{enumerate}
+    \item It fulfils the criteria for a combinatorial game.
+    \item It is relatively simple to learn and play.
+    \item It seems fairly interesting to play.
+\end{enumerate}
+
+\end{flushleft}
+
+\section*{Useful Links}
+
+\begin{flushleft}
+\begin{enumerate}
+    \item \begin{verbatim}
+        https://en.wikipedia.org/wiki/Dots_and_Boxes
+    \end{verbatim}
+    \item \begin{verbatim}
+        https://www.youtube.com/watch?v=KboGyIilP6k
+    \end{verbatim}
+    \item \begin{verbatim}
+        https://www.wikihow.com/Win-at-the-Dot-Game
+    \end{verbatim}
+\end{enumerate}
+
+\end{flushleft}
+
+\section*{Program type}
+
+We are going to begin with a player, that is a program that can make legal moves.
+We will try to improve upon the code and algorithm to reach the level of a solver eventually.
+
+\section*{Division of work}
+We anticipate that about 70 percent of the code will be written by us explicitly. The rest will likely be taken from the Internet. \newline
+
+The work will be divided as such:
+
+\begin{enumerate}
+    \item One person to build the user interface
+    \item Two people to conceive the algorithm
+    \item One person to build the actual program
+\end{enumerate}
+
+
+\end{document}
